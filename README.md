@@ -300,3 +300,15 @@ A footnote can also have multiple lines[^2].
  Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
+
+#### Color text 
+
+    Markup: use diff language tag to write colorful text
+
+```diff
+- text in red color
++ text in green color
+! text in orange color
+# text in gray color
+@@ text in bold and purple color@@
+```
