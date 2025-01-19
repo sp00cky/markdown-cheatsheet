@@ -285,9 +285,12 @@ Emoji:
 
 ### Superscript and Subscript
 
-_You can use HTML tags for superscript and subscript._
-`H~2~O (water) or 
-x^2^ (x squared)`
+_You can use HTML tags for superscript and subscript.
+
+```
+H~2~O (water) or 
+x^2^ (x squared)
+```
 
 ### Math Equations
 
